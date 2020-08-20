@@ -23,6 +23,7 @@
     "detox": "^17.4.2",
     "detox-expo-helpers": "^0.6.0",
     "expo-detox-hook": "^1.0.10",
+    "jest-circus": "^26.4.0",
     "jest-expo": "^38.0.2"
   },
   "private": true,
